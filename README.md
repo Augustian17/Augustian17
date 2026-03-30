@@ -12,6 +12,11 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Augustian17&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustian17&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+## 📊 GitHub Stats
+![Augustian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Augustian17&show_icons=true&theme=radical)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Augustian17&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
 
