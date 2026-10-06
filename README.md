@@ -1,32 +1,99 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Turning ideas into AI-powered products (from zero to something useful).<br><br>👯 I’m looking to collaborate on<br>People who want to build, not just talk.<br><br>🤝 I’m looking for help with<br>Taking projects from “just code” → “real business”.<br><br>🌱 I’m currently learning<br>How AI works under the hood and how to monetize it.<br><br>💬 Ask me about<br>Getting started in tech with no background.<br><br>⚡ Fun fact<br>I care more about execution than perfection.
+<!-- ===================== BANNER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=AGUSTIAN%20SATRIADI&fontSize=48&fontColor=e6edf3&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Project%20Manager&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
+</p>
 
+<h1 align="center">Hi 👋, I'm Augs</h1>
+<h3 align="center">Machine Learning Enthusiast & Project Manager</h3>
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/augs0501) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/augstn_gtma) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:agustiansatriadi@gmail.com) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Augustian17&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Augustian17&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Augustian17&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-## 📊 GitHub Stats
-![Augustian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Augustian17&show_icons=true&theme=radical)
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Augustian17&theme=highcontrast&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Augustian17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <a href="https://github.com/Augustian17">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=%3E+Training+models+%26+shipping+ideas;%3E+LSTM+%E2%80%A2+Random+Forest+%E2%80%A2+Deep+Learning;%3E+Building+AI+Agents+that+actually+work;%3E+Smart+Port+%26+Harbour+Monitoring+PM" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Augustian17&icon=0&color=10)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h2 align="center">🚀 About Me</h2>
+
+<!-- Ganti src di bawah dengan foto/GIF pixel-art kamu sendiri (upload ke folder assets/ di repo ini) -->
+<img align="right" width="260" src="assets/pixel-me.gif" alt="me" />
+
+So here's the deal ☕ I'm a university student at **Universitas Universal, Batam 🇮🇩**, who spends way too much time convincing machines to learn things.
+
+I play with **LSTM, Random Forest, Deep Learning**, and lately **AI Agents** — basically anything that turns raw data into something smart. On top of that, I'm the **Project Manager** of the **Smart Port & Harbour Monitoring System**, an IoT + AI platform for smarter harbours.
+
+My workflow, honestly: collect data → train model → accuracy 99% → realize it's overfitting → cry a little → fix it → ship it 🚢
+
+I speak **Bahasa Indonesia, English, and 中文** — and Python, fluently.
+
+<br clear="right" />
+
+---
+
+<h2 align="center">🤝 Connect</h2>
+
+<p align="center">
+  <a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://instagram.com/USERNAME_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://tiktok.com/@USERNAME_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
+  <a href="mailto:agustiansatriadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,sklearn,anaconda,opencv&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,flask,fastapi&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,docker,arduino,raspberrypi&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows,figma&theme=dark" />
+</p>
+
+---
+
+<h2 align="center">🛠️ Featured Projects</h2>
+
+<p align="center">
+  <a href="https://github.com/Augustian17"><img src="https://img.shields.io/badge/⚓_Smart_Port_%26_Harbour_Monitoring-IoT_•_AI_•_ML-1f6feb?style=for-the-badge" /></a><br/>
+  <a href="https://github.com/Augustian17"><img src="https://img.shields.io/badge/💰_Kasku-Personal_Finance_+_ML-238636?style=for-the-badge" /></a><br/>
+  <a href="https://github.com/Augustian17"><img src="https://img.shields.io/badge/🤖_Hermes-24%2F7_AI_Assistant-8957e5?style=for-the-badge" /></a>
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Augustian17&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
+</p>
+
+<h2 align="center">📈 Activity Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Augustian17&bg_color=0d1117&color=58a6ff&line=1f6feb&point=e6edf3&area=true&area_color=1f6feb&hide_border=true" width="100%" />
+</p>
+
+<h2 align="center">👾 Commit Activity</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Augustian17/Augustian17/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Augustian17/Augustian17/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Augustian17/Augustian17/output/pacman-contribution-graph-dark.svg">
+  </picture>
+</p>
+
+---
+
+<h2 align="center">💭 Philosophy</h2>
+
+<p align="center">
+  <i>"A model is only as good as the data you feed it — and so is a person."</i><br/>
+  <sub>— Augs</sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,50:161b22,100:0d1117&height=120&section=footer" width="100%" />
+</p>
