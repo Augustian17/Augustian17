@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=AGUSTIAN%20SATRIADI&fontSize=48&fontColor=e6edf3&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Project%20Manager&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=AGUSTIAN%20GAUTAMA&fontSize=48&fontColor=e6edf3&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Project%20Manager&descSize=16&descAlignY=58&descAlign=50&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Augs</h1>
@@ -37,7 +37,7 @@ I speak **Bahasa Indonesia, English, and 中文** — and Python, fluently.
   <a href="https://linkedin.com/in/USERNAME_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://instagram.com/USERNAME_INSTAGRAM"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://tiktok.com/@USERNAME_TIKTOK"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" /></a>
-  <a href="mailto:agustiansatriadi@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:agustianGAUTAMA@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
